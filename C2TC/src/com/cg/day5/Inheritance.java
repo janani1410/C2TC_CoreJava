@@ -1,4 +1,4 @@
-package com.cg.inheritance;
+package com.cg.day5;
 
 public class Inheritance {
 	void add(){

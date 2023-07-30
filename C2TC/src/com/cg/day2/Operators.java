@@ -1,6 +1,6 @@
-package basics_day1;
+package com.cg.day2;
 
-public class Basics {
+public class Operators {
 
 	public static void main(String[] args) {
 		int num1=10;

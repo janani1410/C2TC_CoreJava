@@ -1,4 +1,4 @@
-package com.cg.inheritance;
+package com.cg.day5;
 
 public class Subclass2 extends Subclass1 {
 		void mul() {
